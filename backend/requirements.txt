@@ -1,0 +1,14 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+sqlalchemy>=2.0.0
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.0.0
+python-multipart>=0.0.6
+pandas>=2.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+pydantic[email-validation]>=2.5.0
+aiofiles>=23.2.0

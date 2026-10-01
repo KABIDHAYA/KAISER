@@ -1,0 +1,35 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Streamlit secrets (DO NOT COMMIT REAL SECRETS)
+.streamlit/secrets.toml
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
+reviewsense.db
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# Runtime directories
+.mplconfig/
+node_modules/
+.env
